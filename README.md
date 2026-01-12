@@ -1,4 +1,6 @@
 🧴 Smart Skin – Personalized Skincare Recommendation System
+
+
 📌 Project Overview
 Smart Skin is a machine learning–based skincare recommendation system designed to suggest personalized skincare routines based on individual user characteristics such as skin type, skin tone, skin concerns, preferences, and ratings.
 The system leverages classification algorithms to deliver accurate, data-driven product recommendations, improving customer satisfaction and supporting beauty brands with personalized marketing strategies.
