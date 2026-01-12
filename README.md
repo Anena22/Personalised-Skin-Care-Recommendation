@@ -1,15 +1,3 @@
-Skip to content
-Chat history
-
-
-You said:
-Presentation_Report.pptx
-Presentation
-Create a readme file for github for my machine learning project in github
-ChatGPT said:
-Sure, Anena 😊
-Below is a professional, recruiter-ready README.md you can directly copy and paste into your GitHub repository for your Machine Learning Skincare Recommendation System project.
-
 🧴 Smart Skin – Personalized Skincare Recommendation System
 📌 Project Overview
 Smart Skin is a machine learning–based skincare recommendation system designed to suggest personalized skincare routines based on individual user characteristics such as skin type, skin tone, skin concerns, preferences, and ratings.
